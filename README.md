@@ -28,4 +28,4 @@ During development, Vite proxies `/api/*` requests to `http://localhost:8787`, s
 - [Testing and Validation Results](docs/testing-validation.md)
 - [Test Cases](docs/test-cases.md)
 - [Deployment Evidence Template](docs/deployment-evidence-template.md)
-- [Risk and Threat Analysis](docs/risk-threat-analysis.md)
+- [Risk and Threat Analysis](docs/risk-threat-analysis.md).
